@@ -1,0 +1,10 @@
+# $Id: Changes,v 1.2 2002/05/01 12:52:15 rowan Exp $
+
+Revision history for Perl extension Apache::AuthenIMAPClient
+
+0.01  Thu Jan 17 09:35:43 EST 2002
+	- original version, stable, documentation included
+
+0.02  Wed May  1 07:45:39 EST 2002
+	- added password existence check code from Mario van den Heuvel
+	- changed module name to Apache::AuthenIMAPClient
